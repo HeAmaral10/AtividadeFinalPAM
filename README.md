@@ -78,7 +78,7 @@ npx expo start
 
 ---
 
-## 👤 Autor(a)
+## 👤 Autor: Henrique Professor de Amaral
 
 Projeto desenvolvido para fins acadêmicos na disciplina de **Programação para Dispositivos Móveis (PAM)**.
 
